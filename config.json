@@ -1,0 +1,25 @@
+{
+    "redis_conf":{
+        "addr":{
+            "naga":"naga.com",
+            "p":"p.com",
+            "h":"www.huntress.com",
+            "ricequant":"192.168.100.102"
+        },
+        "port":"6379",
+        "category_id":["4", "3", "1", "2", "6"]
+    },
+    "markdown_conf":{
+        "fields": ["html", "xhtmlOut", "breaks", "langPrefix", "linkify", "typographer"],
+        "defaults":{
+					"html": false,
+					"xhtmlOut": true,
+					"breaks": true,
+					"langPrefix": "language-",
+					"linkify": true,
+					"typographer": false,
+					"highlight": true,
+					"highlightTheme": "railscasts.css"
+		}
+    }
+}
