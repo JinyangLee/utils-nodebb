@@ -3,7 +3,7 @@
         "addr":{
             "naga":"naga.com",
             "p":"p.com",
-            "h":"www.huntress.com",
+            "h":"huntress",
             "ricequant":"192.168.100.102"
         },
         "port":"6379",

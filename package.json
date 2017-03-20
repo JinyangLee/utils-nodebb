@@ -1,6 +1,6 @@
 {
   "name": "utils-nodebb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "utils for nodebb",
   "main": "index.js",
   "scripts": {
